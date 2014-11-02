@@ -70,11 +70,14 @@ a:visited {
 a:hover, a:focus {
 	color: #2078b3;
 	text-decoration: none;
-	outline: none;
 }
 
 a:active {
 	color: #16547d;
+}
+
+.italic {
+	font-style: italic;
 }
 
 /* NAVBAR
