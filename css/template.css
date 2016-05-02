@@ -161,6 +161,7 @@ a:active {
 
 
 #nav-container {
+  display: none;
   width:100%;
   overflow: visible;
   white-space: nowrap;
