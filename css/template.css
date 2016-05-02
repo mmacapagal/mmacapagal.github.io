@@ -159,6 +159,9 @@ a:active {
 	transform: translateY(0px);
 }
 
+nav {
+	display: none;
+}
 
 #nav-container {
   display: none;
