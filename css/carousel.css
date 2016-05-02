@@ -68,6 +68,10 @@ a:active {
 	display: none;
 }
 
+nav {
+	display: none;
+}
+
 #nav-container {
   width:100%;
   overflow: visible;
@@ -671,7 +675,10 @@ a.accordion-button:active {
 	}
 	
 
-	
+	nav {
+		display: block;
+	}
+
 	#nav-container {
 		display: block;
 		white-space: normal;
